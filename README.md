@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**zahraa-hubail/zahraa-hubail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Zahraa ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+### Programming Student | Software Engineer | Full-stuck Developer
+#### Passionate about building modern applications, exploring new technologies, and continuously improving my skills through real-world projects.
 
-Here are some ideas to get you started:
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTk2c280MHY2Njhtb3p2bWZvNTF4azhwY2pyd2U2M3g3NXlmb2toMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="80%" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+</div>
+
+---
+
+## 💻 Tech Stack 
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=java,cs,py,php,js,html,css,react,dotnet,bootstrap,jquery,mysql,firebase,azure,unity,figma,git,github,linux,kali,powershell,visualstudio,vscode,windows,swift,notion,discord,stackoverflow,octave,sklearn&perline=10&theme=dark)](https://skillicons.dev)
+
+</div>
+
+
+
+## 🌐 Reach Out
+
+<div align="center">
+
+<a href="https://github.com/zahraahubail" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/zahraa-hubail-341b113b2" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Always learning. Always building.
+
+</div>
