@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Zahraa 👋🏻
-### Programming Student | Software Engineer | Full-stuck Developer
+### Programming Student | Software Engineer | Full-Stack Developer
 #### Passionate about building modern applications, exploring new technologies, and continuously improving my skills through real-world projects.
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTk2c280MHY2Njhtb3p2bWZvNTF4azhwY2pyd2U2M3g3NXlmb2toMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="80%" />
